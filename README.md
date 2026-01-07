@@ -8,3 +8,6 @@ To run all of the code in the associated notebook, first complete the following.
 3. In your CLI, from the directory of this project, run <pip install -r requirements.txt>
 4. In your CLI, from the directory of this project, run <python3 -m jupyterlab> (depending on your installation of python and jupyter this may be slightly different)
    
+You should now be able to run the notebook RLDatiz-Assignment.ipynb
+You can find a writen report in "RLDatix Data Science Assessment Report.docx".
+You can find the description for the assessment in "Data_Science_Assignment.pdf".
